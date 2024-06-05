@@ -40,10 +40,12 @@ PyScreenshot is a Python application built using Tkinter and PIL (Pillow) that a
 3. Choose a directory to save or type a new one.
 4. Type the screenshot name.
 5. Save it using the "Zatwierdź" button.
-   ![[Pasted image 20240522201431.png]]
+   ![screenshot](ss1.png)
 7. The saved screenshots will appear in a scrollable list.
    You can change their names by clicking on corresponding textbox under screenshot and zoom them in by clicking on screenshot miniature.
-
+![screenshot](ss2.png)
+![screenshot](ss3.png)
+![screenshot](ss4.png)
 ## File naming 
 If you won't specify the screenshot name will be saved with name:
 `MM_DD_YYYhhmmss.jpg` in chosed folder and `shortened__path___MM_DD_YYYhhmmss.jpg` in default folder.
